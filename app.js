@@ -65,6 +65,5 @@ async function run() {
   const response = await result.response;
   const text = response.text();
     console.log(text);
-    const resultDiv = document.getElementById('result').innertext = text;
 }
 run();
