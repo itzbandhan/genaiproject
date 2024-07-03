@@ -1,5 +1,5 @@
 # genaiproject
-**NOTE : **
+**NOTE :**
 this project is yet on build,
 not for use!
 
