@@ -7,5 +7,4 @@ not for use!
 
 <br />
 <br />
-
 `The project is on build and the full version will be provided shortly afterwards`
