@@ -1,4 +1,5 @@
 # genaiproject
+**NOTE**
 on progress,
 not for use!
 
