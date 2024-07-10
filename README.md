@@ -6,3 +6,4 @@ not for use!
 [Live Link](https://genai-wqyl.onrender.com)
 <br />
 `The project is on build and the full version will be provided shortly afterwards`
+This project is currently on hold! Please star it so that we could release it as soon as possible
