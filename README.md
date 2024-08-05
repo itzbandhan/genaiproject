@@ -9,8 +9,6 @@ PROJECT CLOSED
 <hr />
 PROJECT CLOSED
 <br />
-
-PROJECT CLOSED!
   : ) 
 
 
