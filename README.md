@@ -5,7 +5,7 @@ PROJECT CLOSED
 
 [Live Link](https://genai-wqyl.onrender.com)
 <br />
-`The project is on build and the full version will be provided shortly afterwards`
+`PROJECT CLOSED`
 <hr />
 PROJECT CLOSED
 <br />
