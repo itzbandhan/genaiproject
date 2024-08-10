@@ -8,7 +8,6 @@ const API = "AIzaSyDwtPKNifocCAw4o_unhHCm07DOQA5dD7c";
 const genAI = new GoogleGenerativeAI(API);
 
 app.use(express.static("public"));
-
 app.get("/generate", async (req, res) => {
   const { prompt } = req.query;
 
