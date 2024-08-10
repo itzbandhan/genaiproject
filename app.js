@@ -3,7 +3,6 @@ const fs = require("fs");
 const express = require("express");
 const app = express();
 
-
 const { GoogleGenerativeAI } = require("@google/generative-ai");
 const API = "AIzaSyDwtPKNifocCAw4o_unhHCm07DOQA5dD7c";
 const genAI = new GoogleGenerativeAI(API);
