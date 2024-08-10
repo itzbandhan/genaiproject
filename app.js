@@ -24,7 +24,6 @@ app.get("/generate", async (req, res) => {
     res.status(500).send({ error: "Failed to generate content" });
   }
 });
-
 app.get("/", (req, res) => {
     res.send(`
     <!DOCTYPE html>
