@@ -10,7 +10,7 @@ const genAI = new GoogleGenerativeAI(API);
 
 app.use(express.static("public"));
 
-// Route to handle the generation request
+
 app.get("/generate", async (req, res) => {
   const { prompt } = req.query;
 
