@@ -9,7 +9,7 @@ const genAI = new GoogleGenerativeAI(API);
 
 app.use(express.static("public"));
 app.get("/generate", async (req, res) => {
-  const { prompt } = req.query;
+const { prompt } = req.query;
 
   try {
     const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
@@ -30,7 +30,7 @@ app.get("/", (req, res) => {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Generative AI test</title>
+    <title>Generative AI test website</title>
 </head>
 <body>
     <h1>Generative Ai Test!</h1>
