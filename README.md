@@ -7,6 +7,7 @@ PROJECT CLOSED
 <br />
 `PROJECT CLOSED`
 <hr />
+<hr />
 PROJECT CLOSED
 <br />
   : ) 
