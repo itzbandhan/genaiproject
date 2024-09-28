@@ -1,5 +1,4 @@
 # genaiproject
-**NOTE :**
 PROJECT CLOSED
 
 
